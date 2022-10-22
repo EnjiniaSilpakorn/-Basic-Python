@@ -4,3 +4,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> tao=turtle.Pen()
 >>> tao.shape('turtle')
 >>> tao.forward(100)
+>>> tao.right(270)
+>>> tao.circle(40)
